@@ -1,7 +1,7 @@
 
 import random
 import sys
-
+# command line game with score for 1 player
 # lets zazz it up here and make a rock paper scissors
 # with lizard & spock version
 # The rules of rock-paper-scissors-lizard-Spock are:
