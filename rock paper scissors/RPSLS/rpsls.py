@@ -3,9 +3,8 @@ import random
 import sys
 # command line game with score for 1 player
 # lets zazz it up here and make a rock paper scissors
-# with lizard & spock version
+# with lizard & spock options
 # The rules of rock-paper-scissors-lizard-Spock are:
-
     # scissors cut paper
     # paper covers rock
     # rock crushes lizard
@@ -16,7 +15,6 @@ import sys
     # paper disproves Spock
     # Spock vaporizes rock
     # and as always has rock crushes scissors
-
 wins = 0
 losses = 0
 ties = 0
